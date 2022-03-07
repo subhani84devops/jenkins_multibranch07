@@ -1,5 +1,5 @@
 
-node('master') 
+node('Built-In') 
 {
     stage('Continuous Download') 
 	{
